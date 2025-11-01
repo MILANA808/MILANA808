@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<!--## 🎯 Присоединяйтесь к разработке!
+Вижу 108+ заинтересованных разработчиков! 
+Есть идеи или нашли баги? Создавайте Issues!
 **MILANA808/MILANA808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
